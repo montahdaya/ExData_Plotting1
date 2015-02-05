@@ -1,3 +1,9 @@
+#### John Hopkins University : Exploratory Data Analysis courses ###
+#### Peer Assessments /Course Project 1 ####
+#### Montassar H'daya : ca.linkedin.com/in/monhdaya/fr ~~~~~ tel: 001 514 549 2649 ####
+
+
+
 ######### Set working directory #########
 
 setwd("~/R/Explorary Data analysis/Project1")
